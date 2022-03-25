@@ -109,12 +109,12 @@ export default {
           "mech": "Type - Worst Beat"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "C47CH-22",
+          "alias": "Zelda Richese",
+          "code": "a7743b7d-706a-429e-867d-3a25a130089f//27424815-fff9-4207-ac3a-492733c9fe92",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Unwelcome Advice"
         },
         {
           "callsign": "Starboard",
