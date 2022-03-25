@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Milkrun",
           "status": "start"
         },
       ],
@@ -117,12 +117,12 @@ export default {
           "mech": "Unwelcome Advice"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Whirlybird 2",
+          "alias": "Ji",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Two Fingers"
         },
         {
           "callsign": "Badlands",
@@ -131,14 +131,6 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
         },
       ],
       "header": {
