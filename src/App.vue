@@ -125,12 +125,12 @@ export default {
           "mech": "Two Fingers"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Pops",
+          "alias": "Giannoulis Gandee V",
+          "code": "2e765209-90af-4ea6-ba25-a06b52e7c8ec//9e50a608-b6a6-4cbb-9b86-434b53f55d93",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "frame": "Sagarmatha",
+          "mech": "Ol Jeb"
         },
       ],
       "header": {
